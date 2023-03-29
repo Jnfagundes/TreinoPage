@@ -28,12 +28,12 @@ a{
 }
 
 .traco{
-    padding: 15px;
+    padding: 5px;
 }
 
 .globo img{
     width: 200px;
-    padding-left: 250px;
+    padding-left: 255px;
     padding-right: 20px;
 }
 
@@ -65,4 +65,39 @@ nav ul li{
 
 #oglobo{
     color: rgb(56, 56, 243);
+}
+
+#valor{
+    color: rgb(14, 87, 14);
+}
+
+#ge{
+    color: rgb(98, 211, 98);
+}
+
+#cartola{
+    color: rgb(235, 174, 60);
+}
+#gshow{
+    color: rgb(235, 174, 60);
+}
+
+#globoplay{
+    color: rgb(238, 68, 68);
+}
+
+#receitas{
+    color: rgb(230, 81, 185);
+}
+
+#giga{
+    color: rgb(66, 238, 66);
+}
+
+.banner{
+    width: 800px;
+    height: 150px;
+    background-color: rgb(99, 97, 97);
+    padding-left: 90px;
+    margin-left: 140px;
 }

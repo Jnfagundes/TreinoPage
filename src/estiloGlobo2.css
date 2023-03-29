@@ -1,0 +1,18 @@
+.conteudo{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    padding-left: 70px;
+}
+
+.noticias{
+    display: flex;
+    flex-wrap: wrap;
+}
+.principal{
+    width: 400px;
+    height: 300px;
+    background-color: rgb(211, 201, 187);
+    border-radius: 5px;
+    padding: 20px;
+}

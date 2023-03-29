@@ -8,11 +8,21 @@
 .noticias{
     display: flex;
     flex-wrap: wrap;
+    width: 420px;
 }
 .principal{
     width: 400px;
-    height: 300px;
+    height: 200px;
     background-color: rgb(211, 201, 187);
     border-radius: 5px;
     padding: 20px;
+}
+
+.conteudo1{
+    width: 130px;
+    height: 100px;
+    background-color: rgb(131, 113, 86);
+    margin: 5px;
+    margin-top: 10px;
+    border-radius: 5px;
 }

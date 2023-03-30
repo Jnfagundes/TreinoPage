@@ -63,3 +63,27 @@
     margin-left: 25px;
     border-radius: 5px;
 }
+
+#titulo{
+    padding: 25px;
+    padding-left:70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(243, 144, 52);
+    font-weight: bolder;
+}
+
+.curta{
+    display: flex;
+    flex-wrap: nowrap;
+    padding-left: 70px;
+}
+
+.conteudo4{
+    width: 180px;
+    height: 160px;
+    background-color: rgb(214, 160, 44);
+   
+    margin-top: 10px;
+    margin-left: 25px;
+    border-radius: 5px;
+}

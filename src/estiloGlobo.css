@@ -45,7 +45,8 @@ a{
 }
 
 #busca{
-    padding: 15px;
+    padding: 5px;
+    padding-top: 15px;
     border: none;
     outline: none;
 }
@@ -95,6 +96,14 @@ nav ul li{
 }
 
 .banner{
+    width: 70%;
+    height: 150px;
+    background-color: rgb(99, 97, 97);
+    padding-left: 90px;
+    margin-left: 140px;
+}
+
+.bannerfundo{
     width: 70%;
     height: 150px;
     background-color: rgb(99, 97, 97);

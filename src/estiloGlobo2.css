@@ -8,21 +8,58 @@
 .noticias{
     display: flex;
     flex-wrap: wrap;
-    width: 420px;
+    width: 500px;
 }
 .principal{
-    width: 400px;
-    height: 200px;
+    width: 480px;
+    height: 350px;
     background-color: rgb(211, 201, 187);
     border-radius: 5px;
-    padding: 20px;
+    padding: 10px;
+    margin-bottom: 10px;
 }
 
 .conteudo1{
-    width: 130px;
-    height: 100px;
+    width: 155px;
+    height: 200px;
     background-color: rgb(131, 113, 86);
     margin: 5px;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+
+.noticias p{
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.esporte{
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+}
+.conteudo2{
+    width: 225px;
+    height: 160px;
+    background-color: rgb(53, 218, 108);
+   
     margin-top: 10px;
+    margin-left: 35px;
+    border-radius: 5px;
+}
+
+.famosos{
+    display: flex;
+    flex-direction: column;
+    width: 270px;
+}
+.conteudo3{
+    width: 255px;
+    height: 160px;
+    background-color: rgb(218, 53, 182);
+   
+    margin-top: 10px;
+    margin-left: 25px;
     border-radius: 5px;
 }

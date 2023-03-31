@@ -64,9 +64,13 @@
     border-radius: 5px;
 }
 
+.entreternimento{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 70px;
+}
+
 #titulo{
-    padding: 25px;
-    padding-left:70px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgb(243, 144, 52);
     font-weight: bolder;
@@ -75,15 +79,99 @@
 .curta{
     display: flex;
     flex-wrap: nowrap;
-    padding-left: 70px;
+    margin-top: 5px;
 }
 
 .conteudo4{
-    width: 180px;
+    width: 230px;
     height: 160px;
     background-color: rgb(214, 160, 44);
    
     margin-top: 10px;
     margin-left: 25px;
     border-radius: 5px;
+}
+
+.destaques{
+    display: flex;
+    flex-wrap: wrap;  
+}
+
+.jornalismo{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.jor{
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    font-size: 2em;
+    font-weight: bolder;
+    width: 240px;
+}
+.jor hr{
+    color: red;
+    border: solid;
+}
+.conteudo5{
+    width: 280px;
+    height: 160px;
+    background-color: rgb(236, 25, 113);
+    margin: 10px;
+    margin-top: 25px;
+    border-radius: 10px;
+
+}
+
+.sport{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-left: 30px;
+}
+.esp{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(21, 161, 91);
+    font-size: 2em;
+    font-weight: bolder;
+}
+.esp hr{
+    color: green;
+    border: solid;
+}
+.conteudo6{
+    width: 280px;
+    height: 160px;
+    background-color: rgb(6, 92, 24);
+    margin: 10px;
+    margin-top: 25px;
+    border-radius: 10px;
+
+}
+
+.famoso{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-left: 30px;
+}
+.fam{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(243, 116, 58);
+    font-size: 2em;
+    font-weight: bolder;
+    margin-left: 30px;
+}
+.fam hr{
+    color: rgb(226, 110, 15);
+    border: solid;
+}
+.conteudo7{
+    width: 280px;
+    height: 160px;
+    background-color: rgb(77, 46, 7);
+    margin: 10px;
+    margin-top: 25px;
+    border-radius: 10px;
+
 }

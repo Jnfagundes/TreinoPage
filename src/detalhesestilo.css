@@ -21,13 +21,29 @@
     margin: 0px;
     margin-top: 5px;
 }
-
+#jornalismo{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: red;
+    color: white;
+    width: 200px;
+    padding: 15px;
+    padding-left: 70px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-right: 10px;
+    font-weight: bolder;
+    
+}
+.agenda{
+    padding-left: 40px;
+}
 #genda{
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(11, 139, 22);
     font-weight: bolder;  
     width: 300px;
     margin: 30px;
+    
 }
 #genda hr{
     color: rgb(11, 139, 22);
@@ -35,8 +51,21 @@
     width: 100px; 
     margin: 0px;
     margin-top: 5px;
+    
 }
-
+#jornalismo{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: red;
+    color: white;
+    width: 200px;
+    padding: 15px;
+    padding-left: 70px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-right: 10px;
+    font-weight: bolder;
+    
+}
 #zodiaco{
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(216, 127, 25);
@@ -51,15 +80,30 @@
     margin: 0px;
     margin-top: 5px;
 }
+#jornalismo{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: red;
+    color: white;
+    width: 200px;
+    padding: 15px;
+    padding-left: 80px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-right: 10px;
+    font-weight: bolder;
+    
+}
 
 #economia{
     margin-top: 50px;
-    margin-bottom: 30px;
+    margin-bottom: 70px;
+    
 }
 
 .agenda h3{
     color: green;
     margin-top: 5px;
+   
 }
 
 .jogos{
@@ -108,4 +152,61 @@
     width: 40px;
     height: 40px;
     margin-left: 15px; 
+}
+
+#jo{
+    color: green;
+    padding-bottom: 6px;
+}
+
+#horoscopo{
+    display: flex;
+    flex-wrap: nowrap;
+    width: 300px;
+    
+}
+#aries{
+    width: 80px;
+    height: 80px;
+    padding: 0px;
+}
+#text {
+    width: 200px;
+    padding-left: 20px;
+    border: 0px;
+    margin-top: 0px;
+   
+}
+#previsao{
+    color: rgb(209, 118, 33);
+    padding: 15px;
+    padding-bottom: 9px;
+}
+
+#esp{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: green;
+    color: white;
+    width: 200px;
+    padding: 15px;
+    padding-left: 80px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-right: 10px;
+    font-weight: bolder;
+    
+}
+
+#entre{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(247, 156, 20);
+    color: white;
+    width: 200px;
+    padding: 15px;
+    padding-left: 80px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-right: 10px;
+    font-weight: bolder;
+    
 }

@@ -1,0 +1,111 @@
+
+.detalhes{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-left: 70px;
+
+}
+
+#econo{
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    font-weight: bolder;
+    width: 250px;
+    margin: 30px;
+}
+#econo hr{
+    color: red;
+    border: solid 1px;
+    width: 100px; 
+    margin: 0px;
+    margin-top: 5px;
+}
+
+#genda{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(11, 139, 22);
+    font-weight: bolder;  
+    width: 300px;
+    margin: 30px;
+}
+#genda hr{
+    color: rgb(11, 139, 22);
+    border: solid 1px;  
+    width: 100px; 
+    margin: 0px;
+    margin-top: 5px;
+}
+
+#zodiaco{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(216, 127, 25);
+    font-weight: bolder;  
+    width: 250px;
+    margin: 30px;
+}
+#zodiaco hr{
+    color: rgb(216, 111, 25);
+    border: solid 1px;  
+    width: 100px; 
+    margin: 0px;
+    margin-top: 5px;
+}
+
+#economia{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.agenda h3{
+    color: green;
+    margin-top: 5px;
+}
+
+.jogos{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.um{
+    padding-left: 35px;
+    padding-right: 25px;
+}
+
+#palmeiras{
+    width: 40px;
+    height: 40px;
+    margin-left: 15px;
+   
+}
+
+#corinthians{
+    width: 40px;
+    height: 40px;
+    margin-left: 15px; 
+}
+
+#galo{
+    width: 40px;
+    height: 40px;
+    margin-left: 15px;
+   
+}
+
+#zero{
+    width: 40px;
+    height: 40px;
+    margin-left: 15px; 
+}
+#fla{
+    width: 40px;
+    height: 40px;
+    margin-left: 15px;
+   
+}
+
+#flu{
+    width: 40px;
+    height: 40px;
+    margin-left: 15px; 
+}

@@ -6,8 +6,9 @@ body{
 }
 
 #pos_topo{
-    width: 1160px;
+    width: 100%;
     height: 150px;
+    padding-left: 10px;
     background-color: rgb(204, 13, 13);
     display: flex;
     flex-wrap: wrap;
@@ -177,7 +178,7 @@ ul li:hover{
 }
 
 .faixa_opcao{
-    width: 1160px;
+    width: 100%;
     height: 50px;
     background-color: white;
     margin: 0px;

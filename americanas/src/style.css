@@ -228,18 +228,3 @@ ul li:hover{
     padding: 10px;
 }
 
-#carrocel{
-    width: 1155px;
-    height: 300px;
-    background-color: aqua;
-    margin-top: 5px;
-    margin-left: 2px;
-}
-
-.slide{
-    display: none;
-}
-
-.slide-ativo{
-    display: block;
-}

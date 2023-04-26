@@ -76,7 +76,7 @@
     padding-right: 0; 
 }
 
-nav ul{
+#menus{
     width: 100%;
     height: 30px;
     display: flex;
@@ -87,7 +87,7 @@ nav ul{
     color: white;
 }
 
-nav a{
+#menus a{
     margin-left: 10px;
     margin-right: 10px;
     text-decoration: none;
@@ -97,11 +97,12 @@ nav a{
 }
 #copasa1{
     padding-left: 30px;
+    float: left;
 }
-#copasa1 ul{
+#copasa1 ul li{
     display: none;
 }
-#copasa1:hover li{
+#copasa1:hover ul{
     display: block;
 
 }

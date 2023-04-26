@@ -76,7 +76,7 @@
     padding-right: 0; 
 }
 
-nav{
+nav ul{
     width: 100%;
     height: 30px;
     display: flex;
@@ -98,6 +98,13 @@ nav a{
 #copasa1{
     padding-left: 30px;
 }
+#copasa1 ul{
+    display: none;
+}
+#copasa1:hover li{
+    display: block;
+
+}
 
 #link{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -111,7 +118,9 @@ nav a{
 }
 hr{
     color: rgb(28, 28, 243);
-    width: 750px;
+    width: 950px;
     border: solid 2px; 
     margin-top: 10px;
+    margin-left: 90px;
 }
+

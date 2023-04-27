@@ -77,23 +77,30 @@
 }
 
 nav{
+    background-color: rgb(105, 105, 238);
     width: 100%;
     height: 30px;
-    display: flex;
-    padding: 0;
-    margin: 0;
-    background-color: rgb(71, 104, 248);
-    border-top: solid blue;
+    border-top: 2px solid rgb(43, 43, 250);
+}
+#menus li{
+    display: inline-block;
     color: white;
+    margin-top: 10px;
+   
 }
 
-nav a{
-    margin-left: 10px;
-    margin-right: 10px;
+#menus li a{
     text-decoration: none;
-    padding: 0;
-    padding-top: 5px;
     color: white;
+    margin-left: 5px;
+    margin-right:5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 0.8em;
+    
+}
+#menus #copasaum{
+    padding-left: 40px;
 }
 
 

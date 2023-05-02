@@ -97,12 +97,27 @@ nav{
     padding-left: 10px;
     padding-right: 10px;
     font-size: 0.8em;
+    border: solid 1px black;
     
 }
-#menus #copasaum{
+#menus #copasaum a{
     padding-left: 40px;
+    position: relative;
 }
 
+#caixa_menu  {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    display: none;
+}
+li:hover #caixa_menu {
+    display: block;
+    
+}
+#menus #copasaum #caixa_menu li a{
+    color: black;
+}
 
 #link{
     font-family: Verdana, Geneva, Tahoma, sans-serif;

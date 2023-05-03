@@ -87,6 +87,7 @@ nav{
     display: inline-block;
     color: white;
     margin-top: 10px;
+    margin-left: 10px;
    
 }
 
@@ -95,7 +96,7 @@ nav{
     color: white;
     margin-left: 5px;
     margin-right:5px;
-    padding-left: 10px;
+    padding-left: 20px;
     padding-right: 10px;
     font-size: 0.8em;    
 }
